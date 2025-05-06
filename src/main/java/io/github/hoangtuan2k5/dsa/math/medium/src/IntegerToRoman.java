@@ -1,4 +1,4 @@
-package io.github.hoangtuan2k5.dsa.math.easy.src;
+package io.github.hoangtuan2k5.dsa.math.medium.src;
 
 /**
  * Số Nguyên sang Số La Mã (Integer to Roman)
