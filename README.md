@@ -1,16 +1,17 @@
+<div align="center">
+
 # DSA LeetCode Training
 
-![LeetCode](https://img.shields.io/badge/-LeetCode-orange)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-blue)
-![Algorithms](https://img.shields.io/badge/-Algorithms-green)
-![Java](https://img.shields.io/badge/Language-Java-red)
-![Coding Interview](https://img.shields.io/badge/-Coding%20Interview-purple)
-![DSA](https://img.shields.io/badge/-DSA-yellow)
-![Practice](https://img.shields.io/badge/-Practice-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Author](https://img.shields.io/badge/Author-Ho%C3%A0ng%20Chi%E1%BB%81u%20Nguy%E1%BB%85n%20Tu%E1%BA%A5n-blueviolet)
+Java solutions, notes, and diagrams for Data Structures and Algorithms practice.
 
-A comprehensive collection of Data Structures and Algorithms solutions from LeetCode, organized by topic and difficulty level.
+![Java](https://img.shields.io/badge/Java-8%2B-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build-c71a36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-DSA-2f80ed?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Tests-JUnit-25a162?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-111827?style=for-the-badge)
+
+</div>
 
 ## Author
 
@@ -22,6 +23,12 @@ A comprehensive collection of Data Structures and Algorithms solutions from Leet
 ## Overview
 
 Welcome to the **DSA LeetCode Training** repository! This project contains solutions to various LeetCode problems, organized by topic and difficulty level. It serves as both a personal practice log and a resource for others looking to improve their problem-solving skills in data structures and algorithms.
+
+## Solved Problems
+
+| # | Problem | Difficulty | Topic | Solution | Diagram |
+| --- | --- | --- | --- | --- | --- |
+| 179 | Largest Number | Medium | Array, Sorting, Greedy | [Java](src/main/java/io/github/hoangtuan2k5/dsa/array/medium/LargestNumber.java) | [SVG](src/main/java/io/github/hoangtuan2k5/dsa/array/medium/docs/largest-number-flow.svg) |
 
 ## Folder Structure
 
@@ -102,4 +109,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Happy Coding! 🚀
+Happy Coding!

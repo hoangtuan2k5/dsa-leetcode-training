@@ -1,0 +1,28 @@
+@startuml
+title LeetCode 179 - Largest Number
+
+start
+:Receive int[] nums;
+:Convert nums to Integer[] arr;
+:Sort arr with custom comparator;
+
+partition Comparator {
+    :For two numbers a and b;
+    :Build ab = String.valueOf(a) + b;
+    :Build ba = String.valueOf(b) + a;
+    :Compare ba with ab;
+}
+
+if (arr[0] == 0?) then (yes)
+    :Return "0";
+    stop
+else (no)
+    :Create StringBuilder sb;
+    while (More numbers in arr?) is (yes)
+        :Append current number to sb;
+    endwhile (no)
+    :Return sb.toString();
+    stop
+endif
+
+@enduml
