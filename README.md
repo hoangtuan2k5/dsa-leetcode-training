@@ -17,7 +17,7 @@ Java solutions, notes, and diagrams for Data Structures and Algorithms practice.
 
 **Hoàng Chiều Nguyễn Tuấn**  
 - GitHub: [hoangtuan2k5](https://github.com/hoangtuan2k5)
-- Email: hoangchieunguyentuan@gmail.com
+- Email: tuan@hoangtuan.dev
 - LinkedIn: [hoangchieunguyentuan](https://www.linkedin.com/in/hoangchieunguyentuan/)
 
 ## Overview
